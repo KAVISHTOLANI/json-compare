@@ -1,0 +1,7 @@
+/* JSON Compare palette and display type. Shared components read these tokens. */
+:root {
+  --accent: #4338ca;
+  --font-display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
+  --display-weight: 560;
+  --display-italic-weight: 420;
+}
