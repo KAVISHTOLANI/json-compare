@@ -1,5 +1,17 @@
 # JSON Compare
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="JSON Compare on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="JSON Compare on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="JSON Compare on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 A split-pane workspace for comparing two JSON documents. Both sides are validated with line-and-column errors, and every difference is listed by JSON path — added, removed, changed, or type changed — with key order ignored.
 
 **Live demo:** [https://kavishtolani.github.io/json-compare/](https://kavishtolani.github.io/json-compare/) — runs entirely in your browser; demo data is fictional and labelled.
