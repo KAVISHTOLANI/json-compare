@@ -2,6 +2,8 @@
 
 A split-pane workspace for comparing two JSON documents. Both sides are validated with line-and-column errors, and every difference is listed by JSON path — added, removed, changed, or type changed — with key order ignored.
 
+**Live demo:** [https://kavishtolani.github.io/json-compare/](https://kavishtolani.github.io/json-compare/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Compare workspace with demo payloads](docs/compare.png)
 
 | Landing | Mobile |
@@ -48,3 +50,7 @@ See the in-app **How it reads JSON** page. In short: object key order and format
 ## Future improvements
 
 - Inline highlighting of changed lines, a Web Worker for multi-MB files, and JSON5/YAML input.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
